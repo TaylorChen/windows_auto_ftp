@@ -1,0 +1,9 @@
+open your ftp host 
+username
+password
+cd /ftp_dir
+prompt off
+mget *.*
+bye
+quit
+exit
